@@ -10,7 +10,7 @@ namespace Primer_Caracter_Apellido_Ultimo_Caracter_Nombre
     {
         static void Main(string[] args)
         {
-            // modificion del programa para ahora el programa puede mostrar la cantidad de caracteres del nombre y los apellidos
+           
             string Nombre, Apellidos;
             Console.Write("Escriba su nombre: ");
             Nombre = Console.ReadLine();
